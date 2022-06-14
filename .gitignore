@@ -63,6 +63,9 @@ Build/*/**
 # Built data for maps
 *_BuiltData.uasset
 
+#No es necesario tener las cosas que se generan como cache o las veces que me ha fallado este programa asi que get that down it!!!
+intermediate/*
+Saved/*
 
 # Compiled source files for the engine to use
 Plugins/*/Intermediate/*
